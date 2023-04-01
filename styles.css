@@ -12,6 +12,7 @@
 }
 .square{
 	background-color:rgb(29, 29, 29);
+	color: rgb(29, 29, 29);
 	display:inline;
 	margin:2px;
 	transition-delay:1s;
